@@ -38,3 +38,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Add your own OpenAI API
 
 Create a .env.local file and in it set your API key to "OPENAI_API_KEY"
+
+## Install Dependencies
+
+npm install react react-dom
+
+nvm install 18
+nvm use 18
+
+
